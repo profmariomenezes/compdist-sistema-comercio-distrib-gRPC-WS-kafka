@@ -22,3 +22,9 @@ Imagine um sistema de comércio eletrônico. Quando um cliente finaliza a compra
 Este fluxo envolve múltiplos "serviços" ou responsabilidades que precisam se comunicar.
 
 O restante da especificação está no documento PDF.
+
+## Execução
+
+Esta atividade deverá ser feita em grupos de no máximo **3** alunos(as).
+
+Você deve evitar fazer a atividade individualmente; aproveite esta oportunidade para desenvolver esta importante habilidade de **trabalhar em equipe**.
